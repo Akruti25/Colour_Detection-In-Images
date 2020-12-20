@@ -1,5 +1,5 @@
-import cv2
 import pandas as pd
+import cv2
 
 img_path = 'wall.jpg'
 csv_path = 'colors.csv'
